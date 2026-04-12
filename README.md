@@ -115,7 +115,7 @@
 | 12 | 🎮 Гейм-трекер (доказал стримом/видео → в профиле) | ![WIP](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 13 | 🎲 Продвинутая логика (челленджи v2.0, ивенты) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨 60% |
 | 14 | 💬 Мессенджер на LiveKit (текст + голос) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨 40% |
-| 15 | 💬 Социальная составляющая (друзья, кооп трекер) | ![Planned](https://img.shields.io/badge/📋-В_планах-888888?style=flat-square) | 🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨 30% |
+| 15 | 💬 Социальная составляющая (друзья, кооп трекер) | ![Planned](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨 30% |
 | 16 | 🎲 Гостевой рандомайзер (простая рулетка) | ![Planned](https://img.shields.io/badge/📋-В_планах-888888?style=flat-square) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 0% |
 | 17 | 🔗 Система достижений (собственная) | ![Planned](https://img.shields.io/badge/📋-В_планах-888888?style=flat-square) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 0% |
 | 18 | 🔗 **RetroAchievements** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
