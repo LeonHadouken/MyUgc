@@ -108,11 +108,11 @@
 | 5 | 🏆 Доска почёта (ваши почести) | ![Done](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 6 | 📝 **Протоколирование** (LoggingService + old_state/new_state + авто-расчёт изменений) | ![Done](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 7 | 🛡️ **Админ-сервисы** (DataService, ActionProxy, SnapshotProxy, ModerationService) | ![Done](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 8 | 📚 67 000+ игр (скоро еще больше) | ![WIP](https://img.shields.io/badge/🔄-Причесывается-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 9 | 🎮 Mednafen сервер для кооператива | ![WIP](https://img.shields.io/badge/🔄-Требует_интеграции-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 8 | 📚 67 000+ игр (скоро еще больше) | ![WIP](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 9 | 🎮 Mednafen сервер для кооператива | ![WIP](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 10 | 🎮 Отслеживание активных игровых сессий | ![Done](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 11 | 📺 Виджет для стримеров (OBS) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 12 | 🎮 Гейм-трекер (доказал стримом/видео → в профиле) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 11 | 📺 Виджет для стримеров (OBS) | ![WIP](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 12 | 🎮 Гейм-трекер (доказал стримом/видео → в профиле) | ![WIP](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 13 | 🎲 Продвинутая логика (челленджи v2.0, ивенты) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨 60% |
 | 14 | 💬 Мессенджер на LiveKit (текст + голос) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨 40% |
 | 15 | 💬 Социальная составляющая (друзья, кооп трекер) | ![Planned](https://img.shields.io/badge/📋-В_планах-888888?style=flat-square) | 🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨 30% |
