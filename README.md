@@ -87,7 +87,7 @@
 | 🎨 **Фронтенд** | ![FSD](https://img.shields.io/badge/FSD_архитектура-✅-6aff6a?style=flat-square) ![140+](https://img.shields.io/badge/140+_файлов-✅-6aff6a?style=flat-square) ![Кастом_UI](https://img.shields.io/badge/Кастомная_дизайн_система-✅-6aff6a?style=flat-square) |
 | 🔗 **Интеграции** | ![Steam](https://img.shields.io/badge/Steam-💡-555555?style=flat-square&logo=steam) ![PSN](https://img.shields.io/badge/PSN-💡-555555?style=flat-square&logo=playstation) ![RA](https://img.shields.io/badge/RA-💡-555555?style=flat-square) |
 | 🎲 **Челленджи** | ![Rand](https://img.shields.io/badge/Рандомайзер-✅-6aff6a?style=flat-square) ![Rules](https://img.shields.io/badge/Честные_правила-✅-6aff6a?style=flat-square) |
-| 📺 **Виджет** | ![OBS](https://img.shields.io/badge/OBS-🔄-ffaa44?style=flat-square&logo=obs-studio) |
+| 📺 **Виджет** | ![OBS](https://img.shields.io/badge/OBS-✅-ffaa44?style=flat-square&logo=obs-studio) |
 | 💬 **Мессенджер** | ![LiveKit](https://img.shields.io/badge/LiveKit-🔄-ffaa44?style=flat-square) |
 | 🎮 **Кооператив** | ![Mednafen](https://img.shields.io/badge/Mednafen-🔄-ffaa44?style=flat-square) |
 | 🏅 **Ачивки** | ![Own](https://img.shields.io/badge/Собственные-📋-888888?style=flat-square) |
