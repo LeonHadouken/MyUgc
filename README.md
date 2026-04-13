@@ -112,9 +112,9 @@
 | 9 | 🎮 Mednafen сервер для кооператива | ![WIP](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 10 | 🎮 Отслеживание активных игровых сессий | ![Done](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 11 | 📺 Виджет для стримеров (OBS) | ![WIP](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 12 | 💬 Мессенджер на LiveKit (текст) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 12 | 💬 Мессенджер на LiveKit (текст) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 90% |
 | 13 | 🎮 Гейм-трекер (доказал стримом/видео → в профиле) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 90% |
-| 14 | 🎲 Продвинутая логика (челленджи v2.0, ивенты) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨 60% |
+| 14 | 🎲 Продвинутая логика (челленджи v2.0, ивенты) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨 40% |
 | 15 | 📞 Мессенджер на LiveKit (голос) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨 40% |
 | 16 | 👮‍♀️ Социальная составляющая (друзья, кооп трекер) | ![Planned](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨 30% |
 | 17 | 🎲 Гостевой рандомайзер (простая рулетка) | ![Planned](https://img.shields.io/badge/📋-В_планах-888888?style=flat-square) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 0% |
