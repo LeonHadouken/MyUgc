@@ -119,13 +119,13 @@
 | 16 | 👮‍♀️ Социальная составляющая (друзья, кооп трекер) | ![Planned](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨 30% |
 | 17 | 🎲 Гостевой рандомайзер (простая рулетка) | ![Planned](https://img.shields.io/badge/📋-В_планах-888888?style=flat-square) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 0% |
 | 18 | 🔗 Система достижений (собственная) | ![Planned](https://img.shields.io/badge/📋-В_планах-888888?style=flat-square) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 0% |
-| 19 | 🔗 **RetroAchievements** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
-| 20 | 🔗 **Speedrun.com** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
-| 21 | 🔗 **Steam** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
-| 22 | 🔗 **PSN (PlayStation)** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
-| 23 | 🔗 **Xbox Live** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
-| 24 | 🔗 **Twitch** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
-| 25 | 🔗 **YouTube** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| 19 | 🔗 **RetroAchievements** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 20 | 🔗 **Speedrun.com** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 21 | 🔗 **Steam** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 22 | 🔗 **PSN (PlayStation)** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 23 | 🔗 **Xbox Live** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 24 | 🔗 **Twitch** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 25 | 🔗 **YouTube** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
 
 ---
 
