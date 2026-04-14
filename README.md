@@ -112,20 +112,21 @@
 | 9 | 🎮 Mednafen сервер для кооператива | ![WIP](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 10 | 🎮 Отслеживание активных игровых сессий | ![Done](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 11 | 📺 Виджет для стримеров (OBS) | ![WIP](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 12 | 💬 Мессенджер на LiveKit (текст) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 90% |
-| 13 | 🎮 Гейм-трекер (доказал стримом/видео → в профиле) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 90% |
-| 14 | 🎲 Продвинутая логика (челленджи v2.0, ивенты) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨 40% |
-| 15 | 📞 Мессенджер на LiveKit (голос) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨 40% |
-| 16 | 👮‍♀️ Социальная составляющая (друзья, кооп трекер) | ![Planned](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨 30% |
-| 17 | 🎲 Гостевой рандомайзер (простая рулетка) | ![Planned](https://img.shields.io/badge/📋-В_планах-888888?style=flat-square) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 0% |
-| 18 | 🔗 Система достижений (собственная) | ![Planned](https://img.shields.io/badge/📋-В_планах-888888?style=flat-square) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 0% |
-| 19 | 🔗 **RetroAchievements** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
-| 20 | 🔗 **Speedrun.com** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
-| 21 | 🔗 **Steam** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
-| 22 | 🔗 **PSN (PlayStation)** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
-| 23 | 🔗 **Xbox Live** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
-| 24 | 🔗 **Twitch** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
-| 25 | 🔗 **YouTube** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 12 | 📺 Миграция динамических стилей Tailwind CSS | ![WIP](https://img.shields.io/badge/✅-Готово-6aff6a?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 13 | 💬 Мессенджер на LiveKit (текст) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 90% |
+| 14 | 🎮 Гейм-трекер (доказал стримом/видео → в профиле) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 90% |
+| 15 | 🎲 Продвинутая логика (челленджи v2.0, ивенты) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨 40% |
+| 16 | 📞 Мессенджер на LiveKit (голос) | ![WIP](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨 40% |
+| 17 | 👮‍♀️ Социальная составляющая (друзья, кооп трекер) | ![Planned](https://img.shields.io/badge/🔄-В_разработке-ffaa44?style=flat-square) | 🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨 30% |
+| 18 | 🎲 Гостевой рандомайзер (простая рулетка) | ![Planned](https://img.shields.io/badge/📋-В_планах-888888?style=flat-square) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 0% |
+| 19 | 🔗 Система достижений (собственная) | ![Planned](https://img.shields.io/badge/📋-В_планах-888888?style=flat-square) | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 0% |
+| 20 | 🔗 **RetroAchievements** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 21 | 🔗 **Speedrun.com** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 22 | 🔗 **Steam** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 23 | 🔗 **PSN (PlayStation)** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 24 | 🔗 **Xbox Live** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 25 | 🔗 **Twitch** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
+| 26 | 🔗 **YouTube** интеграция | ![Idea](https://img.shields.io/badge/💡-Идея-555555?style=flat-square) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0% |
 
 ---
 
